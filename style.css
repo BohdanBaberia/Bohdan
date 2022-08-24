@@ -1,0 +1,27 @@
+
+.border-box {
+    box-sizing: border-box;
+    background-color:green;
+    width: 350px;
+    height: 220px;
+    padding: 15px 10px 20px 10px;
+    margin-bottom: 30px;
+    border-style: dashed;
+    border-width: 2px; 
+    border-color: red ;
+}
+
+
+.left {
+    float: left;
+    padding: 0px 20px 10px 0px;
+}
+
+.right {
+    float: right;
+    padding: 10px 0px 10px 15px;
+}
+
+p {
+ text-align: justify;
+}
